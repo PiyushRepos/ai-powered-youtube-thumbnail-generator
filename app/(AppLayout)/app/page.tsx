@@ -85,7 +85,7 @@ const Page = () => {
       {/* Header */}
 
       {/* main thumbnail area */}
-      <main className="py-6 space-y-10">
+      <main className="py-6 space-y-10 pt-16">
         {/* Youtube Cards */}
         <div>
           <h2 className="text-lg font-bold text-neutral-600 my-4">
